@@ -36,3 +36,9 @@ The scores are displayed on the screen along with the webcam feed and any necess
 **User Input Handling:**
 
 The program listens for user input. If the 'q' key is pressed, the game starts, and the timer is initialized. If the 'x' key is pressed, the program exits.
+
+![AI-Game-ezgif com-video-to-gif-converter](https://github.com/Bisma-Shafiq/AI-game/assets/148833585/f64cb5e0-37b3-4dfc-a906-94afe1485d4a)
+
+
+
+
