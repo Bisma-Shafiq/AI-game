@@ -1,0 +1,8 @@
+Langauges: Python
+Editor :Pycharm
+Libraries : CVZone
+OpenCv
+Numpy
+random
+Time
+Desiging : Canva for background Design
